@@ -1,0 +1,7 @@
+.banner{
+    background-image: url("../images/Rectangle\ 4.png");
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 100%; */
+}
